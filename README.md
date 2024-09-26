@@ -1,2 +1,2 @@
 # Streaming-Service
-Built an amazing streaming service using PHP Laravel.
+An amazing streaming service using PHP Laravel.
